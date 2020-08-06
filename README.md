@@ -17,8 +17,7 @@ Aplicação para fazer a entrada e saida de itens, com suas respectivas categori
 
 ## Tecnologias utilizadas :memo:
 
-- [ReactJS](https://reactjs.org/)
-- [Axios](https://github.com/axios/axios)
+- [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 
 ## Como utilizar 🤔
